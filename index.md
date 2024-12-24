@@ -6,3 +6,6 @@
 ``` python
 print('Data Analysis')
 ```
+- [ ] Get a job.
+- [ ] Answer Calls
+- [x] No Answer Calls 👽
